@@ -20,15 +20,10 @@ public class ejercicio5 {
 		System.out.println("Valor C = "+C);
 		System.out.println("Valor D = "+D);
 		
-		int A2=A;
-		int B2=B;
-		int C2=C;
-		int D2=D;
-		
-		B=C2;
-		C=A2;
-		A=D2;
-		D=B2;
+		B=C;
+		C=A;
+		A=D;
+		D=B;
 		
 		System.out.println("Sustitución:");
 		
